@@ -29,7 +29,6 @@ A complete autonomous racing pipeline for the 1/10-scale F1TENTH platform, built
 - [Waypoint Editor](#waypoint-editor)
 - [Results](#results)
 - [Limitations and Future Work](#limitations-and-future-work)
-- [Team](#team)
 - [References](#references)
 
 ---
@@ -378,18 +377,7 @@ Two heuristics produced the best lap times:
 3. **Offline raceline optimization.** Standard minimum-curvature or minimum-time optimization on the post-SLAM track polygon will likely yield several tenths per lap over the manually-shaped lines.
 
 ---
-
-## Team
-
-| Name | GitHub |
-|---|---|
-| Kaifan Yu | [@kaifanyu](https://github.com/kaifanyu) |
-| Benjamin Abt | [@bencabt](https://github.com/bencabt) |
-| Allan Lin | [@huluwulu1115](https://github.com/huluwulu1115) |
-| Luyang Hu | [@Allan-Linn](https://github.com/Allan-Linn)|
-
 University of Pennsylvania — F1TENTH Autonomous Racing.
-
 ---
 
 ## References
